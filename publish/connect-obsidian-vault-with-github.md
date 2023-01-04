@@ -1,5 +1,5 @@
 ---
-title: "The Easiest Way to setup Obsidian Git"
+title: "The Easiest Way to Setup Obsidian Git"
 ---
 1. Create a repository or [[publish-your-obsidian-notes-with-linked-blog-starter|fork the md repo]] in github
 2. [Download Git](https://git-scm.com/downloads)
